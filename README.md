@@ -10,3 +10,5 @@ generates a file with the specified name and size, filling it with random data.
 ```
 usage: rfg filename filesize[M,m,G,g]
 ```
+
+20241209
